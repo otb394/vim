@@ -9,3 +9,5 @@ colorscheme monokai
 set nocompatible
 syntax on
 execute pathogen#infect()
+autocmd Filetype tex setl updatetime=1
+let g:livepreview_previewer = 'evince'
