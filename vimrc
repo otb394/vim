@@ -10,3 +10,4 @@ set nocompatible
 syntax on
 let g:tex_flavor='latex'
 inoremap nn <c-n>
+let g:Tex_DefaultTargetFormat='pdf'
