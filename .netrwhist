@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/rishabhagmt/Documents/College/DAA F19'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/mysql/mysql.conf.d'
+let g:netrw_dirhist_2='/home/rishabhagmt/.gconf'
+let g:netrw_dirhist_3='/home/rishabhagmt/Documents/College/RAISE/TravisTest/travistorrent-tools/build_logs_api2/galaxyproject@galaxy'
+let g:netrw_dirhist_4='/home/rishabhagmt/Documents/College/RAISE/RATasks'
+let g:netrw_dirhist_5='/etc/mysql/conf.d'
+let g:netrw_dirhist_6='/home/rishabhagmt/Documents/College/RAISE/Kewen/LAS/build/bdist.linux-x86_64'
+let g:netrw_dirhist_7='/home/rishabhagmt/Documents/College/RAISE/Git_miner/src/main/git_log'
+let g:netrw_dirhist_8='/home/rishabhagmt/Documents/College/RAISE/Sherry/pits/hpc_install'
